@@ -8,8 +8,6 @@
 
 + kill: 프로세스에 종료 
 
-출처: https://inpa.tistory.com/entry/LINUX-📚-프로세스-관리-명령어-💯-정리-Foreground-Background#백그라운드_프로세스_출력_[👨‍💻 Dev Scroll]
-
 
 2. vim 에디터에서 매크로 사용방법
 
